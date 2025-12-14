@@ -6,7 +6,7 @@ A community Windows port of [go-zenon](https://github.com/zenon-network/go-zenon
 
 ## Quick Start
 
-1. Download `znnd.exe` from the [latest release](https://github.com/wave-func/go-zennon-ftw/releases/latest)
+1. Download `znnd.exe` from the [releases page](https://github.com/wave-func/go-zennon-ftw/releases/tag/v0.0.8-windows)
 2. Run it:
 ```
 znnd.exe
