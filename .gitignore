@@ -1,0 +1,15 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+build/
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
